@@ -39,10 +39,10 @@ export default function Hero() {
             <p className="text-xl text-gray-600 mb-8" data-aos="fade-up" data-aos-delay="200">Maior precisão e agilidade nas análises de imagens através da Inteligência Artificial.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn text-white bg-blue-700 hover:bg-blue-800 w-full mb-4 sm:w-auto sm:mb-0" href="https://www.genius-ai.app.br/">Inicie Teste</a>
+                <a className="btn text-white bg-blue-700 hover:bg-blue-800 w-full mb-4 sm:w-auto sm:mb-0" href="https://www.genius-ai.app.br/" target="_blank">Iniciar Teste</a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
-                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://wa.me/message/RH3MIXPLWDZEN1">Saiba Mais</a>
+                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://wa.me/message/RH3MIXPLWDZEN1" target="_blank">Saiba Mais</a>
               </div>
             </div>
           </div>
