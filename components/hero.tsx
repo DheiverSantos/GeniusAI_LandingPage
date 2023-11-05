@@ -26,23 +26,23 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <div className="flex justify-center items-center mb-4">
+            <div className="flex justify-center items-center mb-5">
               <Image
                 src={GeniusAIImage}
-                alt="Genius AI Image"
+                alt="Logo Genius AI Image"
                 width={400}
                 height={400}
                 data-aos="fade-up"
                 data-aos-delay="400"
               />
             </div>
-            <p className="text-xl text-gray-600 mb-8" data-aos="fade-up" data-aos-delay="200">Revolucionando o Diagnóstico Médico. Maior precisão e agilidade nas análises de imagens atravez de Inteligência Artificial.</p>
+            <p className="text-xl text-gray-600 mb-8" data-aos="fade-up" data-aos-delay="200">Maior precisão e agilidade nas análises de imagens atravez de Inteligência Artificial.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Start free trial</a>
+                <a className="btn text-white bg-blue-700 hover:bg-blue-800 w-full mb-4 sm:w-auto sm:mb-0" href="https://www.genius-ai.app.br/">Inicie Teste</a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
-                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">Learn more</a>
+                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://wa.me/message/RH3MIXPLWDZEN1">Saiba Mais</a>
               </div>
             </div>
           </div>

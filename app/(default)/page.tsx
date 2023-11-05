@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Open PRO',
-  description: 'Page description',
+  title: 'Genius AI',
+  description: 'Genius AI, Diagnostico medico através de inteligência artificial',
 }
 
 import Hero from '@/components/hero'
@@ -13,8 +13,8 @@ export default function Home() {
   return (
     <>
       <Hero />
-      <Features />
       <Zigzag />
+      <Features />
       <Testimonials />
       <Newsletter />
     </>
