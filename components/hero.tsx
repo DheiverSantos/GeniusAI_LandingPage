@@ -1,4 +1,4 @@
-import VideoThumb from '@/public/images/hero-image-01.jpg'
+import VideoThumb from '@/public/images/hero-image-01.png'
 import ModalVideo from '@/components/modal-video'
 import GeniusAIImage from '@/public/images/logo.png'
 import Image from 'next/image'
@@ -36,7 +36,7 @@ export default function Hero() {
                 data-aos-delay="400"
               />
             </div>
-            <p className="text-xl text-gray-600 mb-8" data-aos="fade-up" data-aos-delay="200">Maior precisão e agilidade nas análises de imagens atravez de Inteligência Artificial.</p>
+            <p className="text-xl text-gray-600 mb-8" data-aos="fade-up" data-aos-delay="200">Maior precisão e agilidade nas análises de imagens através da Inteligência Artificial.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
                 <a className="btn text-white bg-blue-700 hover:bg-blue-800 w-full mb-4 sm:w-auto sm:mb-0" href="https://www.genius-ai.app.br/">Inicie Teste</a>
