@@ -52,7 +52,7 @@ export default function Hero() {
             thumbWidth={1024}
             thumbHeight={576}
             thumbAlt="Modal video thumbnail"
-            video="https://seu-usuario.github.io/seu-repositorio/videos/video.mp4"
+            video="https://github.com/DheiverSantos/GeniusAI_LandingPage/tree/master/public/videos"
             videoWidth={1920}
             videoHeight={1080} 
           />
