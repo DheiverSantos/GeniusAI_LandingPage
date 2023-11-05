@@ -103,7 +103,7 @@ export default function Zigzag() {
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-blue-700 mb-2">Descobrindo o Futuro</div>
                   <h3 className="h3 mb-3">Inovando a Interpretação de Imagens com Inteligência Artificial</h3>
-                  <p className="text-xl text-gray-400 mb-4">Através das nossas soluções, hospitais e clínicas em todo o mundo estão revolucionando a interpretação de exames de imagem. Nossas ferramentas baseadas em IA oferecem suporte decisivo no diagnóstico, tornando-se um recurso indispensável no arsenal médico moderno.</p>
+                  <p className="text-xl text-gray-400 mb-4">Através de nossas soluções, hospitais e clínicas em todo o mundo estão revolucionando a interpretação de exames de imagem. Nossas ferramentas baseadas em IA oferecem suporte decisivo no diagnóstico, tornando-se um recurso indispensável no arsenal médico moderno.</p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">

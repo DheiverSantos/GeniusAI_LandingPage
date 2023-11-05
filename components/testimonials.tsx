@@ -13,7 +13,7 @@ export default function Testimonials() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Experiências e Opiniões</h2>
-            <p className="text-xl text-gray-400">Descubra o que nossos clientes, hospitais e médicos têm a dizer sobre nossa parceria e soluções inovadoras.</p>
+            <p className="text-xl text-gray-400">Descubra o que nossos clientes têm a dizer sobre nossa parceria e soluções inovadoras.</p>
           </div>
 
           {/* Testimonials */}
@@ -45,7 +45,7 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow text-center">— Através da sua avançada tecnologia, a inteligência artificial GENIUS desempenhou um papel fundamental ao me fornecer um valioso auxílio no diagnóstico preciso de uma variedade de doenças cardíacas, possibilitando uma abordagem mais agil e precisa</blockquote>
+              <blockquote className="text-lg text-gray-400 grow text-center">— Através da sua avançada tecnologia, a inteligência artificial GENIUS desempenhou um papel fundamental ao me fornecer um valioso auxílio no diagnóstico preciso de uma variedade de doenças cardíacas, possibilitando uma abordagem mais ágil e precisa</blockquote>
               <div className="text-center text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Dr. Carlos Castro - Cardiologista</cite> {/* - <a className="text-blue-700 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a> */}
               </div>
@@ -63,7 +63,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-gray-400 grow text-center">— Redução de custos e satisfação do cliente são fundamentais para nós. Através da API da Genius AI, conseguimos ambos. Os diagnósticos precisos garantem que nossos afiliados recebam o melhor cuidado possível, otimizando nossos recursos e construindo confiança.</blockquote>
               <div className="text-center text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic text-center">Sr. Marcelo Figueiredo - Diretor de Plano de Saúde</cite> {/* - <a className="text-blue-700 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a> */}
+                <cite className="text-gray-200 not-italic text-center">Dr. Marcelo Figueiredo - Diretor de Plano de Saúde</cite> {/* - <a className="text-blue-700 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a> */}
               </div>
             </div>
 

@@ -24,7 +24,7 @@ export default function Newsletter() {
             {/* CTA content */}
             <div className="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-1/2">
               <h3 className="h3 text-white mb-2">Conheça nossas soluções</h3>
-              <p className="text-blue-200 text-lg">Converse diretamente com nosso cientista de dados sobre nosso modelos de IA.</p>
+              <p className="text-blue-200 text-lg">Converse diretamente com nosso cientista de dados sobre nossos modelos de IA.</p>
             </div>
 
             {/* CTA form */}
