@@ -1,4 +1,6 @@
 import './css/style.css'
+import GoogleAnalytics from '@/components/GoogleAnalytics'
+import CookieBanner from '@/components/cookiebanner'
 
 import { Inter, Architects_Daughter } from 'next/font/google'
 
@@ -30,10 +32,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <GoogleAnalytics GA_MEASUREMENT_ID='G-38MBWWFG0P'/>
       <body className={`${inter.variable} ${architects_daughter.variable} font-inter antialiased bg-gray-50 text-blue-700 tracking-tight`}>
         <div className="flex flex-col min-h-screen overflow-hidden">
           <Header />
           {children}
+          <CookieBanner/>
           <Banner />
         </div>
       </body>
