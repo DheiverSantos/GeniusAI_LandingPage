@@ -23,7 +23,7 @@ export default function Features() {
               <div className="w-32 h-32 rounded-full overflow-hidden mb-5">
                 <Image className="w-full h-full object-cover" src={hospitalImage} alt="imagem hospital" />
               </div>
-              <h4 className="h4 mb-2">API para hospitais e clínicas</h4>
+              <h3 className="h3 mb-2 text-center">API para hospitais e clínicas</h3>
               <p className="text-lg text-gray-600 text-center">Modernize seu ambiente clínico, aproveitando a análise por IA para otimizar diagnósticos e tratamentos.</p>
             </div>
 
@@ -32,7 +32,7 @@ export default function Features() {
               <div className="w-32 h-32 rounded-full overflow-hidden mb-5">
                 <Image className="w-full h-full object-cover" src={medicalImage} alt="Imagem Medico" />
               </div>
-              <h4 className="h4 mb-2 text-center">Plataforma de Análise Médica</h4>
+              <h3 className="h3 mb-2 text-center">Plataforma de Análise Médica</h3>
               <p className="text-lg text-gray-600 text-center">Permite que médicos utilizem IA para aprimorar diagnósticos em exames de imagem, combinando rapidez e precisão.</p>
             </div>
 
@@ -41,7 +41,7 @@ export default function Features() {
               <div className="w-32 h-32 rounded-full overflow-hidden mb-5">
                 <Image className="w-full h-full object-cover" src={planoImage} alt="imagem healthtech" />
               </div>
-              <h4 className="h4 mb-2">API para planos de Saúde</h4>
+              <h3 className="h3 mb-2 text-center">API para planos de Saúde</h3>
               <p className="text-lg text-gray-600 text-center">Garantimos diagnósticos de alta precisão, resultando em economia de custos, aperfeiçoamento da glosa e maior satisfação dos afiliados.</p>
             </div>
 
