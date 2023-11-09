@@ -26,14 +26,14 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <div className="flex justify-center items-center mb-5">
+            <div className="flex justify-center items-center mb-12">
               <Image
                 src={GeniusAILogo}
                 alt="Logo Genius AI Image"
-                width={400}
-                height={400}
+                width={300}
+                height={300}
                 data-aos="fade-up"
-                data-aos-delay="400"
+                data-aos-delay="200"
               />
             </div>
             <p className="text-xl text-gray-600 mb-8" data-aos="fade-up" data-aos-delay="200">Maior precisão e agilidade nas análises de imagens através da Inteligência Artificial.</p>
@@ -42,7 +42,7 @@ export default function Hero() {
                 <a className="btn text-white bg-blue-700 hover:bg-blue-800 w-full mb-4 sm:w-auto sm:mb-0" href="https://www.genius-ai.app.br/" target="_blank">Iniciar Teste</a>
               </div> */}
               <div data-aos="fade-up" data-aos-delay="600">
-                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://wa.me/message/RH3MIXPLWDZEN1" target="_blank">Saiba Mais</a>
+                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto" href="https://wa.me/message/RH3MIXPLWDZEN1" target="_blank">Saiba Mais</a>
               </div>
             </div>
           </div>
