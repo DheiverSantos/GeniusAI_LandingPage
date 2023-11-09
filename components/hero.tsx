@@ -26,7 +26,7 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <div className="flex justify-center items-center mb-12">
+            <div className="flex justify-center items-center mb-8">
               <Image
                 src={GeniusAILogo}
                 alt="Logo Genius AI Image"
