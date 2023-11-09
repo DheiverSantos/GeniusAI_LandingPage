@@ -14,7 +14,7 @@ export default function Zigzag() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-gray-800 bg-blue-200 rounded-full mb-4">Avançando a Medicina Moderna</div>
             <h1 className="h2 mb-4">Revolucionando o Diagnóstico Médico.</h1>
-            <p className="text-xl text-gray-400">Nossas soluções estão moldando o diagnóstico médico, melhorando a qualidade de vida dos pacientes e otimizando o setor de saúde.</p>
+            <p className="text-xl text-gray-600">Nossas soluções estão moldando o diagnóstico médico, melhorando a qualidade de vida dos pacientes e otimizando o setor de saúde.</p>
           </div>
 
           {/* Items */}
@@ -31,8 +31,8 @@ export default function Zigzag() {
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="text-xl text-blue-700 mb-2">Missão de Inovação</div>
                   <h3 className="h3 mb-3">Reinventando o Diagnóstico Médico</h3>
-                  <p className="text-xl text-gray-400 mb-4 text-justify">Na Genius AI, estamos empenhados em revolucionar o diagnóstico médico. Utilizamos tecnologia de ponta em Inteligência Artificial para analisar exames de imagem, proporcionando aos médicos insights precisos e confiáveis. Ao combinar essa tecnologia avançada com pesquisa médica de ponta, estamos elevando o padrão do atendimento médico.</p>
-                  <ul className="text-lg text-gray-400 -mb-2">
+                  <p className="text-xl text-gray-600 mb-4 text-justify">Na Genius AI, estamos empenhados em revolucionar o diagnóstico médico. Utilizamos tecnologia de ponta em Inteligência Artificial para analisar exames de imagem, proporcionando aos médicos insights precisos e confiáveis. Ao combinar essa tecnologia avançada com pesquisa médica de ponta, estamos elevando o padrão do atendimento médico.</p>
+                  <ul className="text-lg text-gray-600 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
@@ -67,8 +67,8 @@ export default function Zigzag() {
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <div className="text-xl text-blue-700 mb-2">Impulsionando a Saúde Moderna</div>
                   <h3 className="h3 mb-3">Revolucionando o Cuidado de Saúde com Precisão</h3>
-                  <p className="text-xl text-gray-400 mb-4 text-justify">Nossa abordagem inovadora beneficia não apenas os profissionais médicos. Ao fornecer diagnósticos mais precisos, reduzimos erros, promovendo uma melhor qualidade de vida para os pacientes e otimizando os recursos no setor de saúde.</p>
-                  <ul className="text-lg text-gray-400 -mb-2">
+                  <p className="text-xl text-gray-600 mb-4 text-justify">Nossa abordagem inovadora beneficia não apenas os profissionais médicos. Ao fornecer diagnósticos mais precisos, reduzimos erros, promovendo uma melhor qualidade de vida para os pacientes e otimizando os recursos no setor de saúde.</p>
+                  <ul className="text-lg text-gray-600 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
@@ -103,8 +103,8 @@ export default function Zigzag() {
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="text-xl text-blue-700 mb-2">Descobrindo o Futuro</div>
                   <h3 className="h3 mb-3">Inovando a Interpretação de Imagens com Inteligência Artificial</h3>
-                  <p className="text-xl text-gray-400 mb-4 text-justify">Através de nossas soluções, hospitais e clínicas em todo o mundo estão revolucionando a interpretação de exames de imagem. Nossas ferramentas baseadas em IA oferecem suporte decisivo no diagnóstico, tornando-se um recurso indispensável no arsenal médico moderno.</p>
-                  <ul className="text-lg text-gray-400 -mb-2">
+                  <p className="text-xl text-gray-600 mb-4 text-justify">Através de nossas soluções, hospitais e clínicas em todo o mundo estão revolucionando a interpretação de exames de imagem. Nossas ferramentas baseadas em IA oferecem suporte decisivo no diagnóstico, tornando-se um recurso indispensável no arsenal médico moderno.</p>
+                  <ul className="text-lg text-gray-600 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />

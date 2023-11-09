@@ -12,7 +12,7 @@ export default function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Explore nossas soluções inovadoras</h2>
-            <p className="text-xl text-gray-400">Projetadas para integrar a mais avançada tecnologia de IA ao coração do atendimento médico, otimizando diagnósticos e processos.</p>
+            <p className="text-xl text-gray-600">Projetadas para integrar a mais avançada tecnologia de IA ao coração do atendimento médico, otimizando diagnósticos e processos.</p>
           </div>
 
           {/* Items */}
@@ -24,7 +24,7 @@ export default function Features() {
                 <Image className="w-full h-full object-cover" src={hospitalImage} alt="imagem hospital" />
               </div>
               <h4 className="h4 mb-2">API para hospitais e clínicas</h4>
-              <p className="text-lg text-gray-400 text-center">Modernize seu ambiente clínico, aproveitando a análise por IA para otimizar diagnósticos e tratamentos.</p>
+              <p className="text-lg text-gray-600 text-center">Modernize seu ambiente clínico, aproveitando a análise por IA para otimizar diagnósticos e tratamentos.</p>
             </div>
 
             {/* 2nd item */}
@@ -33,7 +33,7 @@ export default function Features() {
                 <Image className="w-full h-full object-cover" src={medicalImage} alt="Imagem Medico" />
               </div>
               <h4 className="h4 mb-2 text-center">Plataforma de Análise Médica</h4>
-              <p className="text-lg text-gray-400 text-center">Permite que médicos utilizem IA para aprimorar diagnósticos em exames de imagem, combinando rapidez e precisão.</p>
+              <p className="text-lg text-gray-600 text-center">Permite que médicos utilizem IA para aprimorar diagnósticos em exames de imagem, combinando rapidez e precisão.</p>
             </div>
 
             {/* 3rd item */}
@@ -42,7 +42,7 @@ export default function Features() {
                 <Image className="w-full h-full object-cover" src={planoImage} alt="imagem healthtech" />
               </div>
               <h4 className="h4 mb-2">API para planos de Saúde</h4>
-              <p className="text-lg text-gray-400 text-center">Garantimos diagnósticos de alta precisão, resultando em economia de custos, aperfeiçoamento da glosa e maior satisfação dos afiliados.</p>
+              <p className="text-lg text-gray-600 text-center">Garantimos diagnósticos de alta precisão, resultando em economia de custos, aperfeiçoamento da glosa e maior satisfação dos afiliados.</p>
             </div>
 
           </div>
