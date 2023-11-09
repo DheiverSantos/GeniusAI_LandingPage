@@ -1,8 +1,8 @@
 import Image from 'next/image'
 
-import FeatImage01 from '@/public/images/features-03-image-01.jpeg'
-import FeatImage02 from '@/public/images/features-03-image-02.png'
-import FeatImage03 from '@/public/images/features-03-image-03.jpg'
+import FeatImage01 from '@/public/images/features-03-image-01.webp'
+import FeatImage02 from '@/public/images/features-03-image-02.webp'
+import FeatImage03 from '@/public/images/features-03-image-03.webp'
 
 export default function Zigzag() {
   return (
@@ -29,7 +29,7 @@ export default function Zigzag() {
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-blue-700 mb-2">Missão de Inovação</div>
+                  <div className="text-xl text-blue-700 mb-2">Missão de Inovação</div>
                   <h3 className="h3 mb-3">Reinventando o Diagnóstico Médico</h3>
                   <p className="text-xl text-gray-400 mb-4 text-justify">Na Genius AI, estamos empenhados em revolucionar o diagnóstico médico. Utilizamos tecnologia de ponta em Inteligência Artificial para analisar exames de imagem, proporcionando aos médicos insights precisos e confiáveis. Ao combinar essa tecnologia avançada com pesquisa médica de ponta, estamos elevando o padrão do atendimento médico.</p>
                   <ul className="text-lg text-gray-400 -mb-2">
@@ -65,7 +65,7 @@ export default function Zigzag() {
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-left">
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
-                  <div className="font-architects-daughter text-xl text-blue-700 mb-2">Impulsionando a Saúde Moderna</div>
+                  <div className="text-xl text-blue-700 mb-2">Impulsionando a Saúde Moderna</div>
                   <h3 className="h3 mb-3">Revolucionando o Cuidado de Saúde com Precisão</h3>
                   <p className="text-xl text-gray-400 mb-4 text-justify">Nossa abordagem inovadora beneficia não apenas os profissionais médicos. Ao fornecer diagnósticos mais precisos, reduzimos erros, promovendo uma melhor qualidade de vida para os pacientes e otimizando os recursos no setor de saúde.</p>
                   <ul className="text-lg text-gray-400 -mb-2">
@@ -101,7 +101,7 @@ export default function Zigzag() {
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-blue-700 mb-2">Descobrindo o Futuro</div>
+                  <div className="text-xl text-blue-700 mb-2">Descobrindo o Futuro</div>
                   <h3 className="h3 mb-3">Inovando a Interpretação de Imagens com Inteligência Artificial</h3>
                   <p className="text-xl text-gray-400 mb-4 text-justify">Através de nossas soluções, hospitais e clínicas em todo o mundo estão revolucionando a interpretação de exames de imagem. Nossas ferramentas baseadas em IA oferecem suporte decisivo no diagnóstico, tornando-se um recurso indispensável no arsenal médico moderno.</p>
                   <ul className="text-lg text-gray-400 -mb-2">

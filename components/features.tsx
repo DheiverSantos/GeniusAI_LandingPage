@@ -1,7 +1,7 @@
-import FeatImage02 from '@/public/images/features-03-image-02.png'
-import medicalImage from '@/public/images/medico_img.jpg'
-import hospitalImage from '@/public/images/hospital_img.jpg'
-import planoImage from '@/public/images/planos_img.jpeg'
+import FeatImage02 from '@/public/images/features-03-image-02.webp'
+import medicalImage from '@/public/images/medico_img.webp'
+import hospitalImage from '@/public/images/hospital_img.webp'
+import planoImage from '@/public/images/planos_img.webp'
 import Image from 'next/image'
 export default function Features() {
   return (

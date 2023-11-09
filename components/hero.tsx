@@ -1,6 +1,6 @@
-import VideoThumb from '@/public/images/hero-image-01.png'
+import VideoThumb from '@/public/images/hero-image-01.webp'
 import ModalVideo from '@/components/modal-video'
-import GeniusAIImage from '@/public/images/logo.png'
+import GeniusAILogo from '@/public/images/logo.webp'
 import Image from 'next/image'
 
 export default function Hero() {
@@ -28,7 +28,7 @@ export default function Hero() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <div className="flex justify-center items-center mb-5">
               <Image
-                src={GeniusAIImage}
+                src={GeniusAILogo}
                 alt="Logo Genius AI Image"
                 width={400}
                 height={400}
