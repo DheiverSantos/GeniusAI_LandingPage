@@ -1,4 +1,7 @@
+import { whatsAppLink } from "@/utils/whatsLink"
+
 export default function Newsletter() {
+  const linkWTS = whatsAppLink()
   return (
     <section>
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
@@ -31,7 +34,7 @@ export default function Newsletter() {
             <form className="w-full lg:w-1/2">
               <div className="flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
                 {/* <input type="email" className="w-full appearance-none bg-blue-700 border border-blue-500 focus:border-blue-300 rounded-sm px-4 py-3 mb-2 sm:mb-0 sm:mr-2 text-white placeholder-blue-400" placeholder="Your best email…" aria-label="Your best email…" /> */}
-                <a className="btn text-blue-700 bg-blue-100 hover:bg-white shadow" href="https://web.whatsapp.com/send?phone=+555189889898&text=Ol%C3%A1%2C%20quero%20saber%20mais%20sobre%20as%20solu%C3%A7%C3%B5es%20da%20Genius%20AI" target="_blank">Contato</a>
+                <a className="btn text-blue-700 bg-blue-100 hover:bg-white shadow" href={linkWTS} target="_blank">Contato</a>
               </div>
               {/* Success message */}
               {/* <p className="text-center lg:text-left lg:absolute mt-2 opacity-75 text-sm">Thanks for subscribing!</p> */}
