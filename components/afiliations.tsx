@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import microsoftBadge from '@/public/images/MS_Startups_Celebration_Badge_Dark.webp'
-import sebraeBadge from '@/public/images//sebraestartup.webp'
+import founderClubBadge from '@/public/images/founderclub.webp'
 import startuplabBadge from '@/public/images/startupinlab.webp'
 import caldeiraBadge from '@/public/images/caldeiramvp.webp'
 
@@ -39,9 +39,6 @@ export default function Afiliations() {
             {/* Item */}
             
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <Image src={sebraeBadge} alt="Sebrae Badge" style={{ maxWidth: '15rem'}}/>
-            </div>
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
               <Image src={caldeiraBadge} alt="Caldeira MVP Badge" style={{ maxWidth: '15rem', borderRadius: '10px' }}/>
             </div>
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
@@ -49,6 +46,9 @@ export default function Afiliations() {
             </div>
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
               <Image src={microsoftBadge} alt="Microsoft for Startups" style={{ maxWidth: '17rem'}}/>
+            </div>
+            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
+              <Image src={founderClubBadge} alt="FounderClub Badge" style={{ maxWidth: '13rem', borderRadius: '10px'}}/>
             </div>
           </div>
           
