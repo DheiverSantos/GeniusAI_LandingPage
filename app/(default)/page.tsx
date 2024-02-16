@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Genius AI',
-  description: 'Genius AI, Diagnostico medico através de inteligência artificial',
+  description: 'Genius AI, Diagnostico médico através de inteligência artificial',
 }
 
 import Hero from '@/components/hero'
